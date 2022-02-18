@@ -1,0 +1,98 @@
+,Star_name,Distance,Mass,Radius,name,year_discovered,discoverer,distance_from_planet (km),diameter (km),orbital_period,host_planet
+0,Sun,0.000015813,1,1
+1,Sirius,0008.6,2.1,1.71´,Adrastea,1979,Jewitt & Danielson,"128,980",26 X 16,0.298,Jupiter
+2,Canopus,0310,15,71
+3,Alpha Centauri,0004.4,1.1,1.2,Aitne,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","23,547,000",3,736,Jupiter
+4,Arcturus,0037,1.1,26
+5,Vega,0025,2.2,2.7,Amalthea,1892,E. Barnard,"181,300",262 X 134,0.498,Jupiter
+6,Capella,0043,2.6,12
+7,Rigel,0860,23,78.9,Ananke,1951,S. Nicholson,"21,200,000",20,631,Jupiter
+8,Procyon,0011.4,1.5,1.9
+9,Betelgeuse,0640[1],20,950,Aoede,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","23,807,655",4,748.8,Jupiter
+10,Achernar,0144,6.7,9.3
+11,Hadar,0390,10.5,8.6,Arche,2002,S. Sheppard,"23,064,000",3,715.6,Jupiter
+12,Altair,0017,1.8,1.8
+13,Acrux,0320,18,8.9,Autonoe,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","24,122,000",4,753,Jupiter
+14,Aldebaran,0065,1.5,44
+15,Antares,0600,12,680,Callisto,1610,"<a href=""/people/ren_epoch/galilei.html"">Galileo</a>","1,883,000","4,800",16.689,Jupiter
+16,Spica,0260,11.43,7.47
+17,Pollux,0034,1.9,8.8,Carme,1938,S. Nicholson,"22,600,000",30,692,Jupiter
+18,Fomalhaut,0025,1.9,1.8
+19,Deneb,"2,600",19,203,Callirrhoe,2000,Spacewatch Project,"24,200,000",10,774,Jupiter
+20,Mimosa,0350,16,8.4
+21,Regulus,0077,3.8,3.1,Carpo,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","17,100,000",3,456.5,Jupiter
+22,Adhara,0430,12.5,14
+23,Shaula,0700,14.5,8.8,Chaldene,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","23,179,000",3.8,741,Jupiter
+24,Castor,0052,2.8,2.4
+25,Gacrux,0088,1.5,84,Cyllene,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","24,000,000",2,737.8,Jupiter
+26,Bellatrix,0240,8.6,5.8
+27,Elnath,0130,5.0,4.2,Elara,1905,C. Perrine,"11,737,000",80,259.65,Jupiter
+28,Miaplacidus,0110,3.5,6.8
+29,Alnilam,"2,000",32,42,Erinome,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","23,279,000",3.2,672,Jupiter
+30,Gamma Velorum,"01,100",9.0,6
+31,Alnair,0101,4.0,3.4,Euanthe,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","21,017,000",3,622,Jupiter
+32,Alioth,0081,2.9,4.2
+33,Alnitak,01050,33,20,Eukelade,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","24,557,295",4,746.4,Jupiter
+34,Dubhe,0120,4.25,30
+35,Mirfak,0590,8.5,68,Euporie,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","19,394,000",2,534,Jupiter
+36,Wezen,"1,600",17,200
+37,Sargas,0270,5.7,26,Europa,1610,"<a href=""/people/ren_epoch/galilei.html"">Galileo</a>","670,900",3126,3.551,Jupiter
+38,Kaus Australis,0140,3.5,6.8
+39,Avior,0630,9.0,130,Eurydome,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","23,219,000",3,713,Jupiter
+40,Alkaid,0104,6.1,3.4
+41,Menkalinan,081,2.39,2.77,Ganymede,1610,"<a href=""/people/ren_epoch/galilei.html"">Galileo</a>","1,070,000",5276,7.155,Jupiter
+42,Atria,0390,7,92
+43,Alhena,0109,2.8,3.3,Harpalyke,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","21,105,000",4.3,595,Jupiter
+44,Peacock,0180,5.9,4.8
+45,Alsephina[2],0080,2.4,2.9,Hegemone,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","24,514,095",3,781.6,Jupiter
+46,Mirzam,0500,13.5,10
+47,Polaris,0430,5.4,39,Helike,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","10,972,830",4,233.8,Jupiter
+48,Alphard,0180,3.0,50
+49,Mintaka,01200,24,16.5,Hermippe,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","21,252,000",4,630,Jupiter
+50,Scheat,0196,2.1,95
+51,Almaaz,0653,15,140,Himalia,1904,C. Perrine,"11,480,000",170,250.57,Jupiter
+52,Rasalgethi,0360,2.8,280
+53,Tau Ceti,011.9,0.783,0.893,Io,1610,"<a href=""/people/ren_epoch/galilei.html"">Galileo</a>","421,600","3,629",1.769,Jupiter
+54,Delta Pavonis,019.92,0.991,1.22
+55,Ran,010.48,0.82,0.74,Iocaste,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","21,269,000",5.2,657,Jupiter
+56,V382 Carinae,"08,900",20,485
+57,Eta Carinae,"07,500",100,60–881,Isonoe,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","23,217,000",3.8,712,Jupiter
+58,Delta Cephei,0887,4.5,44.5
+59,Mu Cephei,"06,000",19.2,972,Kale,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","23,124,000",2,609,Jupiter
+60,Titawin,044.25,1.27,1.48
+61,Rho Cassiopeiae,"08,154",22,636-981,Kallichore,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","22,395,390",2,683.0,Jupiter
+62,P Cygni,"05,545",30,76
+63,La Superba,"01,000",,129 - 342,Kalyke,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","23,583,000",5.2,760,Jupiter
+64,VV Cephei,"04,900",18.2,"516 - 1,050"
+65,61 Cygni,011.41,0.7,0.665,Kore,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","24,543,000",2,779.2,Jupiter
+66,R Doradus,0178,0.7 - 1.0,298
+67,Polaris Australis,0281,1.59,3.74,Leda,1974,C. Kowal,"11,094,000",10,238.72,Jupiter
+68,R Coronae Borealis,"04,566",0.85,85
+69,54 Piscium,036.1,0.76,0.94,Lysithea,1938,S. Nicholson,"11,720,000",24,259.22,Jupiter
+70,Mira,0300,1.2,370
+71,RW Cephei,"014,000",13.9,"1,158",Magaclite,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","23,806,000",5.4,771,Jupiter
+72,Lacaille 8760,012.87,0.6,0.51
+73,V838 Monocerotis,"019,896",?,380 - 750,Metis,1979,S. Sunnott,"127,960",40,0.295,Jupiter
+74,HD 140283,0190,?,1.4
+75,II Pegasi,0130,0.8,3.4,Mneme,2003,Scott S. Sheppard & B. Gladman,"21,069,000",2,620.04,Jupiter
+76,VY Canis Majoris,"03,900",17,"1,420"
+77,Pistol Star,"025,000",100,320,Orthosie,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","21,168,000",2,617,Jupiter
+78,S Doradus,"0169,000",24,380
+79,UY Scuti,"05,100",7–10,755,Pasiphae,1908,P. Melotte,"23,500,000",36,735,Jupiter
+80,Barnard's Star,05.98,0.14,0.20
+81,Luhman 16,06.52,0.04,?,Pasithee,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","23,029,000",2,715,Jupiter
+82,Proxima Centauri,04.25,0.12,0.15
+83,KIC 8462852,"01,470",1.43,1.58,Praxidike,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","21,147,000",6.8,632,Jupiter
+84,R136a1,"0163,000",290,32
+85,Melnick 42,"0163,000",189,21.1,Sinope,1914,S. Nicholson,"23,700,700",28,758,Jupiter
+86,WR 102,"018,134",19,0.39
+87,VFTS 352,"0164,000",57.48,14.47,Sponde,2001,"S. Sheppard, D. Jewitt, & J. Kleyna","23,808,000",2,732,Jupiter
+88,YBP 1194,"02,772",1.01,0.99
+89,Gliese 1214,047.5,0.16,0.21,S/2000 J11,2000,"S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier","12,555,000",4.0,284.3,Jupiter
+90,NML Cygni,"05,251",50,"1,640 - 2,770"
+91,VB 10,018.72,0.075,0.10,S/2003 J2,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","28,570,410",2,982.5,Jupiter
+92,WOH G64,"0163,000",<20,"1,540 - 1,730"
+93,TRAPPIST-1,039.6,0.089,0.12,S/2003 J3,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","18,339,885",2,504.0,Jupiter
+94,2MASS J0523-1403,040.3,0.07,0.086
+95,WISE 0855−0714,07.27,0.003,?,S/2003 J4,2003,"S. Sheppard, D. Jewitt, & J. Kleyna","23,257,920",2,723.2,Jupiter
+96,Icarus,"014,400,000,000",33,?
